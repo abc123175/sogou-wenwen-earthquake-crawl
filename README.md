@@ -3,5 +3,5 @@
 
 ## 环境依赖
 ```bash
-pip install playwright
+pip install playwright pandas openpyx1
 playwright install chromium
